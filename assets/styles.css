@@ -84,7 +84,7 @@ h1#subtitle {
 #code a {
     color: #efefef;
     display: inline-block;
-    min-width: 93px;
+    min-width: 100px;
     text-decoration: none;
 }
 

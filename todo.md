@@ -1,10 +1,21 @@
 # Todo
 
-## DevOps
+
+## DevOps/NetSys
+- IaC Cloud 1
+- IoT
+- Darkly
+- SnowCrash
+
 - [ ] Docker_init: Review
 - [ ] Roger_Skyline: Review
 - [ ] userrecon: Review
 - [ ] Init: Review
+
+
+
+
+
 
 ## WebDev
 - [ ] Hypertube: Review
@@ -16,6 +27,8 @@
 - [ ] FDF: review the code+++
 - [x] Libft
 - [x] Get_Next_Line
+
+## Security
 
 # Next Project to Add
 ## DevOps

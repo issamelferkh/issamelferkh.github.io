@@ -1,15 +1,25 @@
-repo name
-repo description : About
-commit date
-commit sha1
-commit text
+# Issam EL FERKH's Portfolio
+
+## Todo
+- fetch all public repo from github
+- how to class projects by category ?
 
 
 
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Branchs
+
+- main
+  - migrate_to_react
+    - 
+- production (to deploy)
+
+
+
+
+
+
 
 ## Available Scripts
 
